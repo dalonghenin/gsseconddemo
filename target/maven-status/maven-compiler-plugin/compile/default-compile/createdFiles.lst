@@ -1,0 +1,17 @@
+com/aliyun/openservices/spring/example/normal/AsyncProducerClient.class
+com/aliyun/openservices/spring/example/transaction/DemoLocalTransactionChecker.class
+com/aliyun/openservices/spring/example/normal/ProducerClient.class
+com/aliyun/openservices/spring/example/order/OrderProducerClient.class
+com/aliyun/openservices/spring/example/normal/DemoMessageListener.class
+com/aliyun/openservices/spring/example/normal/SqlProducerClient.class
+com/aliyun/openservices/spring/example/transaction/TransactionProducerClient.class
+com/aliyun/openservices/spring/example/transaction/TransactionProducerClient$1.class
+com/aliyun/openservices/spring/example/normal/SqlConsumerClient.class
+com/aliyun/openservices/spring/example/normal/ConsumerClient.class
+com/aliyun/openservices/spring/example/order/OrderDemoMessageListener.class
+com/aliyun/openservices/spring/example/batch/BatchDemoMessageListener.class
+com/aliyun/openservices/spring/example/batch/BatchConsumerClient.class
+com/aliyun/openservices/spring/example/controller/TestController.class
+com/aliyun/openservices/spring/example/normal/AsyncProducerClient$1.class
+com/aliyun/openservices/spring/example/order/OrderConsumerClient.class
+com/aliyun/openservices/spring/example/MainServer.class

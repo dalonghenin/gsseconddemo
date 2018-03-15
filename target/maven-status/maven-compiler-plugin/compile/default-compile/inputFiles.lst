@@ -1,0 +1,15 @@
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/normal/ProducerClient.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/order/OrderConsumerClient.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/MainServer.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/batch/BatchConsumerClient.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/order/OrderDemoMessageListener.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/normal/DemoMessageListener.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/transaction/TransactionProducerClient.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/normal/SqlConsumerClient.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/transaction/DemoLocalTransactionChecker.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/batch/BatchDemoMessageListener.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/normal/AsyncProducerClient.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/controller/TestController.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/order/OrderProducerClient.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/normal/SqlProducerClient.java
+/Users/zhuyi/gssecond/onsclient/src/main/java/com/aliyun/openservices/spring/example/normal/ConsumerClient.java
